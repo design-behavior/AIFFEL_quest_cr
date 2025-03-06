@@ -135,4 +135,7 @@ class SecondPage extends StatelessWidget {
       font_awesome_flutter: ^10.6.0 > font_awesome_flutter: ^10.8.0
 
 : Image.asset 등록 시 이미지를 등록할 때마다 pubspec.yaml 에서 pub get 해야 하는 것을 몰랐는데, 이번에 확실히 알게 되었음. (참.. 귀찮은 일인 듯)
+
+: 버튼과 고양이/강아지 사진을 가로 기준 중앙정렬을 하기 위하 CrossAxisAlignment 를 설정하였는데, Align 으로 감싸지 않아서 오류가 생겼음.
+  요소의 배치를 조정하거나 꾸미기 위해 html 처럼 열고 닫고 그 안에 감싸는 것이 너무 복잡하게 느껴짐
 //
