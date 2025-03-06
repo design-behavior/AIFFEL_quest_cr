@@ -60,7 +60,7 @@ class _FirstPageState extends State<FirstPage> {
             alignment: Alignment.center,
             child: GestureDetector(
               onTap: () {
-                print('isCat: true');
+                print('isCat: $isCat');
               },
               child: Image.asset(
                 'assets/cat.jpeg',
@@ -109,7 +109,7 @@ class SecondPage extends StatelessWidget {
             alignment: Alignment.center,
             child: GestureDetector(
               onTap: () {
-                print('isCat: false');
+                print('isCat: $isCat');
               },
               child: Image.asset(
                 'assets/dog.jpeg',
