@@ -123,3 +123,16 @@ class SecondPage extends StatelessWidget {
     );
   }
 }
+
+//
+
+<윤순천 회고>
+: appbar 좌측에 고양이, 강아지 아이콘을 구분해서 넣으려고 하니, 내장 icon은 pets만 지원하여, font_awesome_flutter 외부 패키지를 활용하여 구분하였음.
+- import 'package:font_awesome_flutter/font_awesome_flutter.dart';
+
+: font_awesome_flutter의 버전이 맞지 않아 아이콘이 표시 되지 않았는데, pub.dev에서 font_awesome_flutter를 검색하여 버전을 맞춰주니, 아이콘이 정상적으로 표시되었음.
+  - dependencies:
+      font_awesome_flutter: ^10.6.0 > font_awesome_flutter: ^10.8.0
+
+: Image.asset 등록 시 이미지를 등록할 때마다 pubspec.yaml 에서 pub get 해야 하는 것을 몰랐는데, 이번에 확실히 알게 되었음. (참.. 귀찮은 일인 듯)
+//
