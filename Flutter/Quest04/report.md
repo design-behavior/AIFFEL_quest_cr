@@ -31,10 +31,6 @@ https://marvelapp.com/prototype/33hf92dg/screen/96799538
 
 ## 구현영상 
 https://github.com/design-behavior/AIFFEL_quest_cr/blob/7a95ef0ba12be755b6c828bed266dd706924443f/Flutter/Quest04/Screen_recording_sunQuest04.webm
-<video controls width="600">
-  <source src="https://github.com/design-behavior/AIFFEL_quest_cr/blob/7a95ef0ba12be755b6c828bed266dd706924443f/Flutter/Quest04/Screen_recording_sunQuest04.webm" type="video/webm">
-  브라우저가 video 태그를 지원하지 않습니다.
-</video>
 
 
 ## 회고
