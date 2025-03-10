@@ -35,5 +35,5 @@ https://github.com/design-behavior/AIFFEL_quest_cr/blob/7a95ef0ba12be755b6c828be
 
 ## 회고
 - 그래픽디자인 요소가 배제된 와이어프레임 정도만으로 화면을 구성하는데에도 어려움이 많고 막막하여, 와이어프레임의 레이아웃을 구현해 내지는 못하였고 기본 기능만 배치하는 것에 집중하였음.
-- AS-IS 구조와는 다르게, Home 화면에 예약현황을 반영하는 구조로 flutter 구현을 시도하였는데, 개발팀이 왜 그렇게 home 화면이나 목록에 실시간 정보 표시하는 것을 싫어했는지 조금은 이해가 되었음.
+- AS-IS 구조와는 다르게, Home 화면에 예약현황을 반영하는 구조로 flutter 구현을 시도하였는데, home 화면이나 목록에 실시간 정보 표시하는 것을 개발팀이 왜 그렇게 싫어했는지 조금은 이해가 되었음.
 - 안드로이드 스튜디오로 진행하면서 SDK 오류, gradle 오류가 너무 많이 발생하여, 코딩보다는 터미널에서 flutter doctor, flutter clean, flutter run, flutter pub get 사용한 시간이 더 긴 것 같음. dart보다 터미널과 더 친해진 인공지능 서비스 디자인하기 subQuest!!!
