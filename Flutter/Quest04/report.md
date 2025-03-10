@@ -30,6 +30,7 @@ https://marvelapp.com/prototype/33hf92dg/screen/96799538
 4. reservation_pc_screen.dart - PC 예약 화면의 구성으로 작성
 
 ## 구현영상 
+https://github.com/design-behavior/AIFFEL_quest_cr/blob/7a95ef0ba12be755b6c828bed266dd706924443f/Flutter/Quest04/Screen_recording_sunQuest04.webm
 
 
 ## 회고
