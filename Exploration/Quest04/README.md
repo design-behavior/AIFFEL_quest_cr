@@ -18,11 +18,9 @@
     - <img width="764" alt="image" src="https://github.com/user-attachments/assets/5bfd537b-2d98-406d-b742-7cfe123d845d" />
 
         
-- [x]  **4. 회고를 잘 작성했나요?**
-    - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
-    배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
-    - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
-        - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+- [x]  **4. 회고를 잘 작성했나요?**   
+    - <img width="950" alt="image" src="https://github.com/user-attachments/assets/6b0595c7-fec7-4bd9-a0b9-02a9113deb03" />
+
         
 - [x]  **5. 코드가 간결하고 효율적인가요?**  
     - lms를 기반으로 잘 작성되어있습니다.
