@@ -40,6 +40,7 @@
 <br>
 
 **5. 최종요약**
+
 ![image](https://github.com/user-attachments/assets/b51f6bf8-e769-4436-adde-3a3469226f2d)
 - VGG16-UNet
   → 실용성과 안정성 측면에서 가장 추천
