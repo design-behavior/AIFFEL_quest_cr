@@ -1,6 +1,7 @@
 **1. 3개 모델 최종결과 비교**
 ![image](https://github.com/user-attachments/assets/b3c79462-af6d-4bb4-bef9-a911633a9cb6)
 <br>
+<br>
 
 **2. 손실(loss) 측면 분석**
 - VGG16-UNet:
@@ -12,7 +13,7 @@
   → train/val 모두 손실이 상대적으로 높음.
 ![image](https://github.com/user-attachments/assets/3ba62608-9d0b-4016-8761-2df340c4d50b)
 <br>
-
+<br>
 
 **3. mean IoU(Intersection over Union) 분석**
 - UNet:
@@ -21,6 +22,7 @@
   → mean IoU 0.85 정도로 매우 우수하지만 UNet보다 약간 낮음.
 - Encoder-Decoder:
   → mean IoU 0.65 로 비교적 낮음.
+<br>
 <br>
 
 **4. 종합분석**
@@ -35,6 +37,7 @@
   → 3개 모델 중 가장 낮은 성능
   → 초보적인 구조라 복잡한 문제에는 한계
 <br>
+<br>
 
 **5. 최종요약**
 ![image](https://github.com/user-attachments/assets/b51f6bf8-e769-4436-adde-3a3469226f2d)
@@ -43,9 +46,11 @@
 - UNet
   → 순수 segmentation 성능(IoU)만 보면 최고
 <br>
+<br>
 
 **6. segmentation 결과 시각화**
 - Test Dataset 내에 데이터들을 얼만큼 잘 맞추었는지 직접 확인결과, 3개 모델 모두 segmentation 결과가 내가 보기에는 나쁘지 않았음
+<br>
 <br>
 
 **7. 회고**
