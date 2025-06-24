@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875240089927",
+    "project_id": "kicksense-19c1d",
+    "storage_bucket": "kicksense-19c1d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875240089927:android:a43098d6691c7dc8724462",
+        "android_client_info": {
+          "package_name": "com.kickingthon.kicksense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZkxqhFDHrxwK_h7Q2Db3w0rxmA9ie2JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
